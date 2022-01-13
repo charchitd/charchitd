@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as a ...**Software Engineer at NeoSOFT Technologies**
 - 🌱 I’m currently learning ...**Blockchain Development.**
-- 👯 I’m looking to collaborate on ...**ML/AI ,  Blockchain projects.**
+- 👯 I’m looking to collaborate on ...**ML/AI ,NLP, Blockchain projects.**
 - 🎓 **CSE Graduate 2021**
 - ⚡ Fun fact: ...**Coffee Lover :coffee: :heart:**
 
