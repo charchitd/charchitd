@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently Pursuing ...**MSc in Business Analytics**
-- 🌱 I’m currently learning ...**Applied ML & Data Science**
+- 🌱 I’m currently learning ...**Applied ML & LLMs and Product Management**
 - 👯 I’m looking to collaborate on ...**ML/AI ,NLP, Blockchain projects.**
 - 🎓 **CSE Graduate 2021**
 - ⚡ Fun fact: ...**Coffee Lover :coffee: :heart:**
