@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently Pursuing ...**MSc in Business Analytics**
 - 🌱 I’m currently learning ...**Applied ML & LLMs and Product Management**
 - 👯 I’m looking to collaborate on ...**ML/AI ,NLP, Blockchain projects.**
-- 🎓 **Aston Business School 25' | CSE Graduate 2021**
+- 🎓 **Aston Business School 25' | CSE Graduate 21'**
 - ⚡ Fun fact: ...**Coffee Lover :coffee: :heart:**
 
 
