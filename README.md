@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m Open for ...**PhD/Research Assistant**
-- 🌱 I’m currently learning ...**Applied AgenticAI & LLMs and Product Management, Business and Education**
+- 🔭 I’m Open for ...**PhD/Research Assistant and Applied ML/NLP Jobs**
+- 🌱 I’m currently learning ...**Applied GenAI**
 - 👯 I’m looking to collaborate on ...**Applied ML, GenAI ,NLP, LLM & AgenticAI.**
 - 🎓 **Masters - Aston Business School 25' | B.Tech CSE Graduate 21'**
 - ⚡ Fun fact: ...**Coffee Lover :coffee: :heart:**
