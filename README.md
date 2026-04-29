@@ -16,7 +16,7 @@
 [![PyPI](https://img.shields.io/badge/PyPI-varity-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/varity)
 [![Email](https://img.shields.io/badge/Email-charchitdhawan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charchitdhawan@gmail.com)
 [![Porfolio](https://img.shields.io/badge/Web-charchitdhawan-32CD32?style=for-the-badge&logo=web&logoColor=white)](https://charchitd-portfolio.vercel.app/)
-
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/varity?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/varity)
 </div>
 
 ---
