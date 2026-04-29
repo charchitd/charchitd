@@ -123,8 +123,6 @@ charchit = {
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=charchitd&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=2563eb&fire=f97316&currStreakLabel=2563eb)](https://git.io/streak-stats)
-
 </div>
 
 ---
