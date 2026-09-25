@@ -1,62 +1,67 @@
-
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6b,100:2563eb&height=200&section=header&text=Charchit%20Dhawan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Product%20Manager%20%E2%80%A2%20Builder%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6b,100:2563eb&height=190&section=header&text=Charchit%20Dhawan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Fairness%20Governance%20%E2%80%A2%20LLM%20Reliability%20%E2%80%A2%20PhD%20Applicant%20(Fall%202027)&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Shipped+Varity+v0.1+%E2%86%92+open-source+on+PyPI;Building+MCP+server+with+6+live+governance+tools;AI+PM+%7C+LLM+Eval+%7C+Agentic+Workflows;MSc+Business+Analytics+%E2%80%A2+Aston+University+%F0%9F%87%AC%F0%9F%87%A7;35%2B+citations+%E2%80%A2+IEEE+VTC+2020" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=780&lines=Varity+%E2%80%94+6.2K%2B+downloads%2C+VSS+reliability+metric;MCP+Governance+Server+%E2%80%94+5P+Framework%2C+6+audit+tools;Neuro-5P+%E2%80%94+preprint+on+Zenodo%2C+targeting+FAccT%2FAIES;4+active+collaborations%3A+Ulster+x2%2C+Strathclyde%2C+Aston;MSc+(Distinction)+Statistics+%26+Data+Analytics%2C+Aston" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-charchit--dhawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charchit-dhawan)
 [![PyPI](https://img.shields.io/badge/PyPI-varity-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/varity)
+[![Zenodo](https://img.shields.io/badge/Zenodo-Neuro--5P_Preprint-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/records/21873506)
 [![Email](https://img.shields.io/badge/Email-charchitdhawan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charchitdhawan@gmail.com)
-[![Porfolio](https://img.shields.io/badge/Web-charchitdhawan-32CD32?style=for-the-badge&logo=web&logoColor=white)](https://charchitd-portfolio.vercel.app/)
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/varity?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=GREEN&left_text=DOWNLOADS)](https://pepy.tech/projects/varity)
+
 </div>
 
 ---
 
-## ⚡ Three Things I've Shipped (Not Just Talked About)
+## 🎯 Core Thread
+
+One research identity runs through everything below: **AI fairness governance**, built with **Soft Systems Methodology (SSM)**, executed through **LLM reliability infrastructure**. Fairness and reliability treated as engineering problems — measurable metrics, repeatable audits, working tools — not one-off reports.
+
+---
+
+## 🤝 Active Research Collaborations
+
+| Project | With | Focus | Status / Target |
+|---|---|---|---|
+| **Autonomic Governance for LLMs** | Dr Roy Sterritt · Ulster University | Hierarchical MAPE-K architecture for inter-dimensional conflict detection in LLM governance | Active since Jul 2026 · Target: **ICAS** |
+| **ML Security & Governance / 5P-Hardware** | Dr Aditya Japa · Ulster University | Architecture-first survey (2022–2026) mapping hardware attack classes (model stealing, side-channel, fault injection) to governance failure modes | Active |
+| **AI4Reading — Proxy Bias in Gaze-Based Attention Classification** | Dr Yingying Zhao · University of Strathclyde | Fairness audit of Zhao's gaze/visual-attention reading-state classifier — testing for proxy bias across a diverse participant pool, extending her published reading-state detection work into a governance layer. Anchor study (Study 2) of a three-study plan; the most novel of the three, though the highest-effort (ethics approval + gaze recruitment, 12–18 month lead time) | Active discussion — target Year 2 |
+| **Graduate Research Assistantship** | Dr Viktor Pekar · Aston University | LLM-based information extraction + semi-supervised co-training for the MSc distinction thesis | Completed, May 2024 – Jan 2025 |
+
+---
+
+## ⚡ Flagship Builds
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**📦 Varity v0.1**<br/>
+**📦 Varity**
 `pip install varity`
 
-Open-source PyPI library for **production-grade LLM self-checking**. Novel **Verdict Stability Score (VSS)** metric. Statistically validated in R across 100K+ documents.
+5-stage recursive LLM self-checking pipeline (Generation → Self-Critique → Revision → Consistency Check → Verdict Aggregation), BYOK & provider-agnostic. Core contribution: the **Verdict Stability Score (VSS)**, validated in R across 100K+ documents.
+
+- 7.2K+ PyPI downloads
+- 40% cut in manual review effort (production HITL use)
+- v1 in progress → targeting AIES / FAccT 2027
 
 [![PyPI](https://img.shields.io/pypi/v/varity?color=3775A9&logo=pypi&logoColor=white)](https://pypi.org/project/varity)
-[![GitHub](https://img.shields.io/badge/repo-charchitd%2Fvarity-181717?logo=github)](https://github.com/charchitd/varity)
+[![Downloads](https://static.pepy.tech/personalized-badge/varity?period=total&units=INTERNATIONAL_SYSTEM&left_color=grey&right_color=green&left_text=downloads)](https://pepy.tech/projects/varity)
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**🤖 MCP Governance Server**<br/>
-`6 callable tools · In development`
+**🤖 Fairness Governance MCP Server**
 
-Model Context Protocol server operationalising the **5P Fairness Framework** (Performance, Parity, Proxies, Process, Participation). ~60% reduction in manual fairness-audit time.
+Operationalises the **5P Framework** (Performance, Parity, Proxies, Process, Participation) as 6 callable audit tools for AI recruitment systems. Live in production via Claude Code agentic workflows.
 
-![Status](https://img.shields.io/badge/status-InProcess-22c55e?style=flat-square)
-![Tools](https://img.shields.io/badge/tools-6_callable-2563eb?style=flat-square)
+- 60% reduction in manual fairness-audit time
+- 6 SSM Stage-1 audit tools
+- Built on the Oxford UK Audit Dataset
 
-</td>
-<td width="33%" align="center">
-
-**📚 BookWise AI**<br/>
-`PDF → AI Curriculum → Tutor`
-
-Full-stack LLM SaaS on **Next.js + Supabase + Anthropic API**. End-to-end RAG pipeline: PDF ingestion → structured curriculum → AI tutor chatbot.
-
-![Stack](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![Stack](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Stack](https://img.shields.io/badge/Anthropic-claude-cc785c?style=flat-square)
+![Status](https://img.shields.io/badge/status-in_progress-2563eb?style=flat-square)
 
 </td>
 </tr>
@@ -64,102 +69,58 @@ Full-stack LLM SaaS on **Next.js + Supabase + Anthropic API**. End-to-end RAG pi
 
 ---
 
-## 🧠 What I Actually Work On
+## 📄 Publications & Research Proposals
+
+- **Path Loss Prediction in Smart Campus Environment: Machine Learning-Based Approaches** — Singh, H., Gupta, S.,  Dhawan, C., Mishra, A. · IEEE VTC2020-Spring, Antwerp · 38+ citations
+- **Neuro-5P: A Neurosymbolic Governance Architecture for Large Language Models** — continuous inter-dimensional governance monitoring for deployed LLMs, evaluated against a monolithic MAPE-K baseline on Bias-in-Bios · [Preprint on Zenodo](https://zenodo.org/records/21873506) · targeting AIES / FAccT / ICAS
+- **Verdict Stability Score (VSS): A Novel Metric for Quantifying LLM Output Reliability through Recursive Self-Checking** — in preparation, target AIES / FAccT 2027
+- **Quantifying Inclusion: A Stakeholder-Centric Governance Framework for Fair AI in Digital Recruitment** — SSM + Oxford UK Audit Dataset, target MISQ / ISR / FAccT
+- **Post-Market Monitoring of LLM-Integrated Cyber-Physical Systems Under EU AI Act Article 72** — PhD proposal for Prof. Atta Badii's Cyber-Physical & Embedded Data Intelligence group, University of Reading. Central claim: LLM output-reliability degradation is both a trustworthiness and a security signal in CPS, monitoring one monitors both — targets the pre-enforcement tooling gap created by the Digital Omnibus deferring Annex I high-risk CPS compliance to August 2028. Proposal reviewed in a ~2-hour meeting with Prof. Badii (Sept 2026); no funding decision yet.
+- **VSS Evaluation of Mosaic-Pruned LLMs** — proposed with Prof. Blesson Varghese's Edge Computing Hub, University of St Andrews. Tests whether composite projection pruning (from Varghese's *Mosaic*, FGCS 2026) degrades LLM output consistency — measured via VSS — independent of accuracy/perplexity, and which projection layers drive the degradation. Target venues: EMNLP Systems Track, MLSys, FGCS. Early-stage; not yet a confirmed collaboration.
+
+---
+
+## 🎓 Education & Path
 
 ```python
 charchit = {
-    "role"       : "AI Product Manager + Builder + Product Research and Architect",
-    "shipped"    : ["Varity v0.1 (PyPI)", "MCP Fairness Server", "BookWise AI"],
-    "research"   : ["IEEE VTC 2020 · 35+ citations", "5P Monitoring Framework", "LLM Evaluation"],
-    "stack"      : ["Claude Code", "Anthropic API", "RAG Pipelines", "MCP Servers", "Next.js"],
-    "data"       : ["Python", "R", "SQL", "Power BI", "Statistical Modelling"],
-    "education"  : ["MSc Business Analytics · Aston University 🇬🇧",
-                    "B.Tech CSE · IIIT"],
-    "open_to"    : ["PhD / Research Positions", "Applied ML / NLP Roles", "AI PM Roles"],
-    "coffee"     : True  # ☕ non-negotiable
+    "msc"        : "Business Analytics & Statistics (Distinction Thesis), Aston University — Best Dissertation, batch",
+    "btech"      : "Computer Science & Engineering (First Class Honours), International Institute of Information Technology (IIIT)",
+    "current"    : "Independent AI Researcher, freelance research practice, UK — since Jan 2026",
+    "industry"   : ["Technical PM, DailyDumbbell", "Software Engineer R&D, NeoSOFT Technologies"],
+    "prior_labs" : ["SUTD Singapore", "IISc Bangalore", "Lancaster University", "Universiti Malaya"],
+    "publication": "IEEE VTC 2020 — 38+ citations",
 }
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🏆 Honors & Recognition
 
-<div align="center">
-
-**AI / LLM Builder**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)
-![Anthropic API](https://img.shields.io/badge/Anthropic_API-cc785c?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-2563eb?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-7c3aed?style=for-the-badge)
-
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Product & Engineering**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+- Runner-Up — Global Business Challenge, Aston Business School (2024)
+- $200,000 Xartup Startup Fellowship credit funding, DailyDumbbell (2023)
+- Distinction — MSc Dissertation, Aston Business School (2025)
+- 7th of 54 — PMSchool × Paytm Insider Monetization Challenge (2022)
+- 1st Place — ML/AI Winter Workshop 2018, Pune (led team of 11)
+- Mentored 6 MSc students on thesis work at Aston University
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
 <a href="https://github.com/charchitd">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=charchitd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9"/>
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charchitd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=charchitd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charchitd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9"/>
 </a>
-
-<br/>
-
-</div>
-
----
-
-## 🔬 Research & Recognition
-
-| 🏆 | Achievement |
-|---|---|
-| 📄 | **IEEE VTC 2020** — ML for vehicular network state prediction · **35+ citations** |
-| 🎓 | **MSc Distinction Thesis** — LLM-based semi-supervised text classification (BLAIR + Neural Networks) |
-| 💰 | **Xartup Startup Fellowship** — $200K credit funding for DailyDumbbell product strategy |
-| 🥇 | **Ranked 7th / 54** — PMSchool × Paytm Insider Monetization Challenge |
-| 🤖 | **Team Lead, ML/AI Winter Workshop 2018** — 1st place, 11-person team |
-| 🌏 | **Research stints** — SUTD Singapore · IISc Bangalore · Lancaster University · University of Malaya |
-
----
-
-## 🤝 Open To
-
-<div align="center">
-
-[![PhD / Research Roles](https://img.shields.io/badge/🎓_PhD_%2F_Research_Positions-Open-22c55e?style=for-the-badge)](mailto:charchitdhawan@gmail.com)
-[![Applied ML / NLP](https://img.shields.io/badge/🧠_Applied_ML_%2F_NLP_Jobs-Open-22c55e?style=for-the-badge)](mailto:charchitdhawan@gmail.com)
-[![AI PM Roles](https://img.shields.io/badge/🚀_AI_Product_Manager-Open-22c55e?style=for-the-badge)](mailto:charchitdhawan@gmail.com)
-
-**Collaborating on:** Applied ML · GenAI · NLP · LLM Evaluation · Agentic AI
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=100&section=footer" width="100%"/>
+**Open to:** PhD positions · applied research collaborations · AI governance / reliability roles
 
-*"Hiring me means hiring someone who has gone deep on three things: Interdisciplinary Researcher and Product Architect loaded with Tech and Business acumen"*
-
-☕ Coffee-powered · 📬 charchitdhawan@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=90&section=footer" width="100%"/>
 
 </div>
