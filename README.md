@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6b,100:2563eb&height=190&section=header&text=Charchit%20Dhawan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Fairness%20Governance%20%E2%80%A2%20LLM%20Reliability%20%E2%80%A2%20PhD%20Applicant%20(Fall%202027)&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=780&lines=Varity+%E2%80%94+6.2K%2B+downloads%2C+VSS+reliability+metric;MCP+Governance+Server+%E2%80%94+5P+Framework%2C+6+audit+tools;Neuro-5P+%E2%80%94+preprint+on+Zenodo%2C+targeting+FAccT%2FAIES;4+active+collaborations%3A+Ulster+x2%2C+Strathclyde%2C+Aston;MSc+(Distinction)+Statistics+%26+Data+Analytics%2C+Aston" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=780&lines=Varity+%E2%80%94+7.7K+%2B+downloads%2C+VSS+reliability+metric;MCP+Governance+Server+%E2%80%94+5P+Framework%2C+6+audit+tools;Neuro-5P+%E2%80%94+preprint+on+Zenodo%2C+targeting+FAccT%2FAIES;4+active+collaborations%3A+Ulster+x2%2C+Strathclyde%2C+Aston;MSc+(Distinction)+Statistics+%26+Data+Analytics%2C+Aston" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-charchit--dhawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charchit-dhawan)
@@ -43,7 +43,7 @@ One research identity runs through everything below: **AI fairness governance**,
 
 5-stage recursive LLM self-checking pipeline (Generation → Self-Critique → Revision → Consistency Check → Verdict Aggregation), BYOK & provider-agnostic. Core contribution: the **Verdict Stability Score (VSS)**, validated in R across 100K+ documents.
 
-- 7.2K+ PyPI downloads
+- 7.7K+ PyPI downloads
 - 40% cut in manual review effort (production HITL use)
 - v1 in progress → targeting AIES / FAccT 2027
 
